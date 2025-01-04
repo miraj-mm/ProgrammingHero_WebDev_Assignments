@@ -19,8 +19,6 @@ This repository contains HTML and CSS projects developed as part of the Programm
 - **Description**: A dynamic web application developed using JavaScript and API integration to search for phones and display detailed information.
 - **Live Site**: [Phone Hunter](https://moonlit-caramel-c45a8d.netlify.app/)
 
-### 4. **HTML and CSS Assignments**
-- **Description**: Additional projects and assignments focused on mastering HTML and CSS, submitted during the Programming Hero course. These include basic to intermediate-level projects to solidify fundamental skills.
 
 ---
 
