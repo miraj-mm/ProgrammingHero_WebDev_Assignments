@@ -35,7 +35,5 @@ This repository contains HTML and CSS projects developed as part of the Programm
 - Enhance existing projects with advanced CSS techniques and JavaScript frameworks.
 - Develop additional projects to demonstrate progressive skill improvement.
 
----
 
-Feel free to explore the repository and visit the live sites to see these projects in action!
 
